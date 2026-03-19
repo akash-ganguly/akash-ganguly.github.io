@@ -120,17 +120,6 @@ main {
   display: block;
 }
 
-.photo-caption {
-  font-family: var(--font-sans);
-  font-size: 0.8rem;
-  color: var(--muted);
-  margin-top: 6px;
-}
-
-.about-text p {
-  margin-bottom: 14px;
-}
-
 .about-text h3 {
   font-family: var(--font-sans);
   font-size: 0.9rem;
