@@ -13,11 +13,11 @@
 :root {
   --accent: #577d5b;        /* purple – change this to any colour you like */
   --accent-dark: #3b543e;
-  --nav-bg: #f0e6f8;
+  --nav-bg: #b0c2b2;
   --nav-active-bg: #fff;
   --text: #222;
   --muted: #555;
-  --link: #7b3aad;
+  --link: #276124;
   --max-width: 820px;
   --font-body: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --font-sans: 'Helvetica Neue', Arial, sans-serif;
