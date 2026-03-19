@@ -11,8 +11,8 @@
  *   --font-sans: 'Lato', sans-serif;
  */
 :root {
-  --accent: #9b4dca;        /* purple – change this to any colour you like */
-  --accent-dark: #7b3aad;
+  --accent: #577d5b;        /* purple – change this to any colour you like */
+  --accent-dark: #3b543e;
   --nav-bg: #f0e6f8;
   --nav-active-bg: #fff;
   --text: #222;
