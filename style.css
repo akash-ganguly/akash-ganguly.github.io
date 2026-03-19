@@ -87,7 +87,7 @@ nav a {
 }
 
 nav a:not(.active) {
-  color: #666;
+  color: #000;
   font-weight: 400;
 }
 
