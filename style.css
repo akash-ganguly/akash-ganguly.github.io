@@ -1,7 +1,14 @@
+/* ── Variables ───────────────────────────────── */
+/*
+ * FONTS — change them here in two places:
  *
- *   --font-body 
- *   --font-sans 
+ *   --font-body  →  used for all body/paragraph text (currently Georgia, a serif)
+ *   --font-sans  →  used for the name, nav tabs, headings, captions, and metadata
  *
+ * To use a Google Font, paste a <link> tag into the <head> of each HTML file,
+ * then replace the font name below. Example:
+ *   <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+ *   --font-sans: 'Lato', sans-serif;
  */
 :root {
   --accent: #0a4d8c;        /* purple – change this to any colour you like */
